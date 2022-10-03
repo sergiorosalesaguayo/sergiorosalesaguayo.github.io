@@ -1,2 +1,4 @@
-# sergiorosalesaguayo.github.io
-Página web
+# Mi página personal
+***
+## Acerca de mi
+Mi nombre es **Sergio Rosales**.
