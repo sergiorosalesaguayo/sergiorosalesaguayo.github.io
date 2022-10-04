@@ -4,3 +4,7 @@
 Mi nombre es **Sergio Rosales**.
 
 ### A veces me gusta caminar
+
+### Mis actividades
+* Conocer nuevas tecnologías
+* Jugar con el Slinky
