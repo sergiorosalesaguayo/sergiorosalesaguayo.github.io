@@ -9,3 +9,4 @@ Mi nombre es **Sergio Rosales**.
 * Conocer nuevas tecnologías
 * Jugar con el Slinky
 * Jugar con Güerito
+* Jugar con yoda
