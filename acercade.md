@@ -1,5 +1,4 @@
-Title: Acerca de
-CSS: miestilo.css
+
 # Esta página es creada con Markdown
 
 ## Markdown 
